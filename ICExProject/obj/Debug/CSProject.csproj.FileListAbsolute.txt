@@ -1,0 +1,22 @@
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.csprojResolveAssemblyReference.cache
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.frm_CsProject.resources
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.Properties.Resources.resources
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.csproj.GenerateResource.Cache
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.pdb
+C:\Users\FOX\Documents\Visual Studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.frm_Genel.resources
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\bin\Debug\CSProject.exe.config
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\bin\Debug\CSProject.exe
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\bin\Debug\CSProject.pdb
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\obj\Debug\CSProject.csproj.AssemblyReference.cache
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\obj\Debug\CSProject.csproj.SuggestedBindingRedirects.cache
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\obj\Debug\CSProject.frm_1Giris.resources
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\obj\Debug\CSProject.frm_2Genel.resources
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\obj\Debug\CSProject.Properties.Resources.resources
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\obj\Debug\CSProject.csproj.GenerateResource.cache
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\obj\Debug\CSProject.csproj.CoreCompileInputs.cache
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\obj\Debug\CSProject.exe
+D:\_VO\_KO_PROJECT\_C#\CSProject C#\CSProject\obj\Debug\CSProject.pdb
